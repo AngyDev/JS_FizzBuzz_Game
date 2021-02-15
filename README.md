@@ -9,3 +9,6 @@ Se il numero è multiplo sia di tre che di cinque stampare la scritta "FizzBuzz"
 ## Linguaggi utilizzati
 
 Html, Css e Javascript
+
+## Demo app
+https://jsfizzbuzzgame.netlify.app/
