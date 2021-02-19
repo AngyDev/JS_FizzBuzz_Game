@@ -4,7 +4,7 @@
 function playGame() {
     var fizzbuzz = "";
 
-    for (i = 1; i <= 100; i++) {
+    for (var i = 1; i <= 100; i++) {
         fizzbuzz += i + " " + isFizzBuzz(i) + "<br>";
         document.getElementById("list").innerHTML = fizzbuzz;
     }
