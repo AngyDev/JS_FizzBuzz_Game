@@ -1,11 +1,14 @@
 # FizzBuzz Game
 
-## Scopo del gioco
+This is a simple game that prints numbers from 1 to 100 included. If the number is multiple of 3 prints the string "Fizz" near the number. If the number is multiple of 5 prints the string "Buzz", and if the number is multiple of 3 and 5 prints the string "FizzBuzz"
 
-Stampare i numeri da 1 a 100 incluso.
-Se il numero è multiplo di tre stampare la scritta "Fizz" a fianco del numero e se il numero è multiplo di 5 stampare la scritta "Buzz".
-Se il numero è multiplo sia di tre che di cinque stampare la scritta "FizzBuzz"
+## Technologies
 
-## Linguaggi utilizzati
+The technologies used in the project:
 
-Html, Css e Javascript
+- Html
+- Css 
+- Javascript
+
+## Demo app
+https://jsfizzbuzzgame.netlify.app/
